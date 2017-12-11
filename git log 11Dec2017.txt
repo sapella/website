@@ -1,0 +1,8 @@
+Shawns-MacBook-Pro-2:repos.website shawnpellacani$ git log
+commit 96655ba54245c6b806a37191c633a32b47714205 (HEAD -> master)
+Author: Shawn Pellacani <shawn.pella@gmail.com>
+Date:   Mon Dec 11 07:20:05 2017 -0800
+
+    Initialize repository
+Shawns-MacBook-Pro-2:repos.website shawnpellacani$
+
